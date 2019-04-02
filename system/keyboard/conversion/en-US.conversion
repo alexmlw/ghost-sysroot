@@ -8,7 +8,6 @@ KEY_D    : d
 KEY_D s  : D
 KEY_E    : e
 KEY_E s  : E
-KEY_E ca : €
 KEY_F    : f
 KEY_F s  : F
 KEY_G    : g
@@ -58,34 +57,41 @@ KEY_SPACE s: " "
 KEY_1    : 1
 KEY_1 s  : !
 KEY_2    : 2
-KEY_2 s  : "
+KEY_2 s  : @
 KEY_3    : 3
-KEY_3 s  : §
+KEY_3 s  : #
 KEY_4    : 4
 KEY_4 s  : $
 KEY_5    : 5
 KEY_5 s  : %
 KEY_6    : 6
-KEY_6 s  : &
+KEY_6 s  : ^
 KEY_7    : 7
-KEY_7 s  : /
-KEY_7 ac : {
+KEY_7 s  : &
 KEY_8    : 8
-KEY_8 s  : (
-KEY_8 ac : [
+KEY_8 s  : *
 KEY_9    : 9
-KEY_9 s  : )
-KEY_9 ac : ]
+KEY_9 s  : (
 KEY_0    : 0
-KEY_0 s  : =
-KEY_0 ac : }
-KEY_SHARP_S: ß
-KEY_SHARP_S s: ?
-KEY_SHARP_S ac: \
+KEY_0 s  : )
 
+KEY_SLASH		: /
+KEY_SLASH s		: ?
 KEY_COMMA		: ,
-KEY_COMMA s		: ;
+KEY_COMMA s		: <
 KEY_DOT  		: .
-KEY_DOT s		: :
+KEY_DOT s		: >
 KEY_MINUS		: -
 KEY_MINUS s		: _
+KEY_EQUALLY		: =
+KEY_EQUALLY s	: +
+KEY_OHOOK		: [
+KEY_OHOOK s		: {
+KEY_CHOOK		: ]
+KEY_CHOOK s		: }
+KEY_SEMICOLON	: ;
+KEY_SEMICOLON s	: :
+KEY_QUOTE		: '
+KEY_QUOTE s		: "
+KEY_BSLASH		: \
+KEY_BSLASH s	: |
